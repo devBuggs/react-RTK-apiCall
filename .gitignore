@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+
+#escape info files
+.txt
+
+
+
 # testing
 /coverage
 

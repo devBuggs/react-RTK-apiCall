@@ -1,0 +1,18 @@
+Axios api call application for pagination and search feature
+
+
+----------------------------------------
+----------------------------------------
+    W-O-R-K-I-N-G P-R-O-J-E-C-T
+----------------------------------------
+----------------------------------------
+
+
+
+React
+React Router
+React Router Dom
+React Redux
+React Redux Toolkit
+Axios api call ( async method )
+w3-css

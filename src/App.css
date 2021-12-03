@@ -1,39 +1,27 @@
-.App {
-  text-align: center;
-}
+@import "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css";
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-float infinite 3s ease-in-out;
-  }
-}
+/* 
+.w3-theme-l5 {color:#000 !important; background-color:#e4ffff !important}
+.w3-theme-l4 {color:#000 !important; background-color:#a6ffff !important}
+.w3-theme-l3 {color:#000 !important; background-color:#4effff !important}
+.w3-theme-l2 {color:#000 !important; background-color:#00f4f4 !important}
+.w3-theme-l1 {color:#fff !important; background-color:#009b9b !important}
+.w3-theme-d1 {color:#fff !important; background-color:#003c3c !important}
+.w3-theme-d2 {color:#fff !important; background-color:#003535 !important}
+.w3-theme-d3 {color:#fff !important; background-color:#002e2e !important}
+.w3-theme-d4 {color:#fff !important; background-color:#002828 !important}
+.w3-theme-d5 {color:#fff !important; background-color:#002121 !important}
 
-.App-header {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-}
+.w3-theme-light {color:#000 !important; background-color:#e4ffff !important}
+.w3-theme-dark {color:#fff !important; background-color:#002121 !important}
+.w3-theme-action {color:#fff !important; background-color:#002121 !important}
 
-.App-link {
-  color: rgb(112, 76, 182);
-}
+.w3-theme {color:#fff !important; background-color:#004040 !important}
+.w3-text-theme {color:#004040 !important}
+.w3-border-theme {border-color:#004040 !important}
 
-@keyframes App-logo-float {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(10px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
-}
+.w3-hover-theme:hover {color:#fff !important; background-color:#004040 !important}
+.w3-hover-text-theme:hover {color:#004040 !important}
+.w3-hover-border-theme:hover {border-color:#004040 !important}
+ */
